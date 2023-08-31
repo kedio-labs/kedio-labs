@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is the home of Kédio, a Software consultancy based in Nantes, France. We provide expertise in Software and Infrastructure, Data Solutions, Artificial Intelligence, Continuous Integration and Continuous Delivery.
+
+Ask us anything on GitHub or via our [contact form](https://blog.kedio.co/about/#contact)!
+
 <!--
 **kedio-labs/kedio-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
