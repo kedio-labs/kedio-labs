@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is the home of Kédio, a Software consultancy based in Nantes, France. We provide expertise in Software and Infrastructure, Data Solutions, Artificial Intelligence, Continuous Integration and Continuous Delivery.
+This is the home of Kédio, a Software consultancy based in Nantes, France. We provide expertise in Software and Infrastructure, Data Solutions, Continuous Integration and Continuous Delivery.
 
 Ask us anything on GitHub or via our [contact form](https://blog.kedio.co/about/#contact)!
 
